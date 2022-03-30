@@ -3,7 +3,8 @@ using namespace std;
 
 int main()
 {
-    int x;
-
+    int a=5,b=4;
+    int c=a+b;
+    cout << "El valor de c es: "<<c<<endl;
     return 0;
 }
